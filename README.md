@@ -19,3 +19,8 @@ If you are developing a production application, we recommend using TypeScript wi
 --- created hello world! project
 --- remove the unnecessary code
 --- install the tailwind
+--- we are using the daisyUI
+--- Change the theme using the daisyUI
+--- Add the Navbar component from daisyUI
+--- Create a Navbar component
+--- Now we gonna set the routing in our application /signup /login /feed et now we gonna do it by react router by this command npm i react-router-dom
